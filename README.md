@@ -1,5 +1,6 @@
-# JS-DOM-CALCULATOR
+# Simple Calculator
+
 Simple Calculator built using JS DOM Elements
 
 
-deployed on https://shelcia.github.io/JS-DOM-CALCULATOR/
+### Deployed at  https://shelcia.github.io/JS-DOM-CALCULATOR/
